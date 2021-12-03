@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dataanalystsaumy
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently exploring Data Science
 
 <!---
 dataanalystsaumy/dataanalystsaumy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
